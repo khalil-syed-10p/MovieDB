@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="api_url">https://api.themoviedb.org/3/</string>
+    <string name="api_key">e2d9483322f00a7620e11b5b5b07809e</string>
+    <string name="not_available">Data not available</string>
+    <string name="text_filter_date">Filter by release date</string>
+    <string name="text_load_data">Loading Data…</string>
+    <string name="text_no_data">No data available</string>
+    <string name="content_desc_img_poster">Image Poster</string>
+</resources>
